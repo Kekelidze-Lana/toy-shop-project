@@ -1,0 +1,546 @@
+/* boys.html */
+@media (max-width:915px) {
+  .shop-all {
+    margin-left: 33px;
+  }
+}
+@media (max-width:826px) {
+    .logo {
+        font-size: 163px;
+    }
+    .welcome {
+      width:400px;
+      height:112px;
+    }
+    .well {
+      font-size: 52px;
+    }
+
+}
+@media (max-width: 881px) {
+  .none{
+    display: none;
+  }
+  .icon {
+    width: 66px;
+    height: 66px;
+  }
+  .one-main {
+    max-width: 718px;
+    width: 100%;
+  }
+  .divaider {
+      width: 240px;
+  }
+  .four-icon {
+    background-color: #CDCDCD;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 30px;
+  }
+  .flex {
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .small {
+    width: 120px;
+  }
+  .atoy {
+    font-size: 49px;
+  }
+  input[type=search] {
+    width: 264px;
+    height: 52px;
+  }
+  .Filter-h1 {
+    font-size: 60px;
+  }
+  .blue {
+    font-size: 25px;
+  }
+  .white {
+    font-size: 25px;
+  }
+  .boys-box-one {
+    margin-bottom: 20px;
+  }
+  .many {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  .a.atoy:hover, a.atoy:active {
+    font-size: 50px;
+  }
+  /* girls.html */
+  .boys-box-g {
+      margin-bottom: 20px;
+  }
+  /* toys.html */
+  .boys-box-toy {
+    margin-bottom: 20px;
+  }
+  .tadtoy {
+    background-color: white;
+  }
+  .bear {
+      background-image: url('../image/small.jpg ');
+      height: 430px;
+  }
+  .big-title {
+   font-size: 110px;
+    margin-top: 145px;
+  }
+  .icon-box {
+    margin-top: 145px;
+  }
+  .box-icon {
+    margin-top: 145px;
+  }
+  .more-box-one {
+    margin-bottom: 85px;
+    margin-left: 267px;
+  }
+  /* all */
+  .all-h1 {
+    font-size: 50px;
+  }
+  .boys-box-all {
+    margin-bottom: 20px;
+  }
+  .all-img {
+    width: 351px;
+  }
+  .shop-all {
+    justify-content: space-around;
+    margin-left: 33px;
+  }
+  .beach-div {
+    max-width: 718px;
+  }
+  /* contact */
+  form.contact input[type=text] {
+    width: 312px;
+    height: 50px;
+  }
+  textarea.con-text {
+    width: 312px;
+    height: 180px;
+  }
+  .Con-h1 {
+    font-size: 50px;
+    margin-bottom: 20px;
+  }
+  .con-p {
+    font-size: 20px;
+  }
+  button.con-button {
+    width: 156px;
+    height: 50px;
+    margin-bottom: 90px;
+    margin-left: 87px;
+
+  }
+  .all-img {
+    max-width: 350px;
+  }
+}
+@media (max-width: 723px) {
+  .big-title {
+    margin-right: 307px;
+  }
+  .all-img {
+    max-width: 330px;
+  }
+}
+@media (max-width: 712px){
+  .shop-all {
+    margin-left: 0px;
+      width: 560px;
+  }
+  .all-h {
+    font-size: 70px;
+  }
+  /* boys.html */
+  .toyy {
+    display: none;
+  }
+  .four-icon {
+    margin-top: 70px;
+  }
+  .doll {
+    font-size: 30px;
+  }
+  .kids {
+    font-size: 20px;
+  }
+  .b-block {
+    display: block;
+    display: flex;
+    margin-top: 30px;
+    margin: 0 auto;
+  }
+  /* toys.html */
+  .g-block {
+    background-color:#CDCDCD;
+  }
+  /* girls.html */
+  .gi-block {
+      background-color: #D9043D;
+  }
+  .ph-non {
+    display: none;
+  }
+  /* contact.html */
+  .contact-wraper {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 50px;
+  }
+  .important-div {
+    margin-top: 30px;
+  }
+  /* all.html */
+}
+@media (max-width:681px) {
+  .all-img {
+    max-width: 314px;
+  }
+}
+@media (max-width: 648px) {
+/* home.html */
+  .one-main {
+    max-width: 500px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .small {
+    display: none;
+  }
+  input[type=search] {
+  display: none;
+  }
+  button[type=search] {
+    display: none;
+  }
+  .fa-bars {
+    display: block;
+    color: white;
+    font-size: 30px;
+  }
+  .fa-heart {
+    color: white;
+  }
+  .fa-cart-plus {
+    color: white;
+  }
+  .navigation {
+    display: none;
+  }
+  .header-div {
+    height: 90px;
+    background-color: #D95F80;
+  }
+  .-g {
+    font-size: 25px;
+  }
+  .tall-wraper {
+    display: none;
+  }
+
+  .big-title {
+    margin-right: 176px;
+    font-size: 100px;
+  }
+  .more-box-one {
+    margin-left: 190px;
+  }
+  .skal {
+    max-width: 307px;
+  }
+  /* all.html */
+  .all-box-one {
+    display: none;
+  }
+  .block {
+    display: block;
+    display: flex;
+  }
+  .shtoy {
+    display: block;
+    display: flex;
+  }
+  .all-h {
+    font-size: 60px;
+  }
+  .all-img {
+    width: 243px;
+  }
+  .all-shop {
+    padding-right: 10px;
+    padding-left: 10px;
+    flex-wrap: wrap;
+  }
+  .all-h1 {
+    font-size: 45px;
+    margin-bottom: 20px;
+  }
+  .b-block {
+    margin: 0 auto;
+    margin-top: 30px;
+  }
+}
+
+@media (max-width: 599px) {
+  /* home.html */
+  .one-main {
+    max-width: 500px;
+    width: 100%;
+  }
+  .tall-wraper {
+    display: none;
+  }
+  .tall-wraper {
+    display: none;
+  }
+  .one-main {
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  .blue {
+    font-size: 22px;
+  }
+  .white {
+    font-size: 22px;
+  }
+  .skal {
+    max-width: 263px;
+  }
+  /* all.html */
+  .shop-all {
+    max-width: 450px;
+  }
+  .than-none {
+    display: none;
+  }
+  .big-box-wraper-three {
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  .big-box-wraper-one {
+    justify-content: space-around;
+  }
+  .up {
+    margin-top: 10px;
+  }
+/* girls.html */
+  .big-box-wraper-two {
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+}
+
+@media (max-width: 500px) {
+  /* index.html */
+  .logo {
+    font-size: 120px;
+  }
+  .welcome {
+    width: 330px;
+    height: 90px;
+  }
+  .well {
+    font-size: 40px;
+  }
+}
+
+@media (max-width: 545px){
+  /* homr.html */
+  .one-main {
+    max-width: 375px;
+    width: 100%;
+  }
+  .big-title {
+    margin-right: 50px;
+    margin-top: 105px;
+  }
+  .bear {
+    height: 307px;
+  }
+
+  .form-form {
+    margin-left: 105px;
+  }
+  .seqtion-box {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+  .one {
+    margin-left: 15px;
+  }
+  .filter-child {
+    width: 280px;
+  }
+  .Filter-h1 {
+    font-size: 55px;
+  }
+  .form-form {
+    margin-left: 0px;
+  }
+  .-g {
+    font-size: 20px;
+  }
+  .nav-ul {
+    display: none;
+  }
+  .dis-fle {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .atoy {
+    font-size: 23px;
+  }
+  .pushtoy {
+  display:none;
+  }
+  .cat {
+  display: none;
+  }
+  .ItachiUchiha {
+  display: none;
+  }
+  .more-box-one {
+    margin-left: 17px;
+  }
+  /* all.html */
+  .big-box-wraper-two {
+    flex-wrap: wrap;
+    margin-top: 0px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+  .big-box-wraper-one {
+    flex-wrap: wrap;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+  .different {
+    margin-bottom: 10px;
+  }
+  .boys-div {
+    display: none;
+    }
+    .all-h {
+    font-size: 35px;
+    margin-top: 25px;
+  }
+  .all-box-one  {
+    width: 200px;
+    height: 60px;
+  }
+  .shop-all {
+    max-width: 360px;
+  }
+  /* contact.html*/
+  textarea.con-text {
+    width: 300px;
+  }
+  form.contact input[type=text] {
+    width: 300px;
+    height: 50px;
+  }
+}
+
+@media (max-width: 428px) {
+  /* index.html */
+  .logo {
+    font-size: 120px;
+  }
+  .welcome {
+    width: 352px;
+  }
+  .well {
+    font-size: 50px;
+  }
+  /* boys.html */
+  .boys-form {
+    padding-left: 10px;
+  }
+  .Filter-h1 {
+    font-size: 40px;
+  }
+}
+@media (max-width: 712px){
+  .bear {
+    display: none;
+  }
+}
+
+@media (max-width: 352px) {
+  /* index.html */
+  .welcome {
+    width: 225px;
+    height: 65px;
+  }
+  .well {
+    font-size: 25px;
+  }
+  .logo {
+    font-size: 80px;
+  }
+}
+
+@media (max-width: 377px){
+  /* all.html */
+  .shop-all {
+      max-width: 290px;
+  }
+}
+
+@media (max-width: 332px) {
+  /* index.html */
+  .welcome {
+    width: 250px;
+    height: 74px;
+  }
+  .well {
+    font-size: 30px;
+  }
+  .logo {
+    font-size: 90px;
+  }
+  /* girls.html */
+  .boys-child {
+    font-size: 20px;
+  }
+  .-g {
+    font-size: 15px;
+  }
+  /* contact.html */
+  textarea.con-text {
+    width: 250px;
+    height: 163px;
+  }
+  button.con-button {
+    margin-left: 60px;
+  }
+  form.contact input[type=text] {
+    width: 250px;
+    height: 45px;
+  }
+  /* home.html */
+  .filter-child {
+    font-size: 17px;
+    width: 240px;
+  }
+}
